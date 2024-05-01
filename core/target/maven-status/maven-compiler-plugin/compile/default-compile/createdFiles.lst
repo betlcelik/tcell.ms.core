@@ -1,0 +1,7 @@
+com\betulcelik\configuration\BaseApplicationConfiguration.class
+com\betulcelik\annotations\EnableSecurity.class
+com\betulcelik\configuration\BaseSecurityService.class
+com\betulcelik\configuration\BaseSecurityConfiguration.class
+com\betulcelik\jwt\JwtService.class
+com\betulcelik\filters\JwtAuthFilter.class
+com\betulcelik\App.class
